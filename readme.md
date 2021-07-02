@@ -37,6 +37,7 @@ Use Infinidash with your favorite platforms.
 - [A Crossplane Provider for Infinidash](https://github.com/luebken/provider-infinidash)
 - [Infinidash SDK for Go](https://github.com/eduardohitek/go-infinidash-sdk)
 - [Infinidash rubygem](https://github.com/bermannoah/infinidash-ruby)
+- [Infinidash SDK for Rust](https://github.com/rafaelcaricio/aws-infinidash-rs)
 
 
 
