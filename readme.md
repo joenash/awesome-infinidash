@@ -21,6 +21,7 @@ Learn all there is to know about Infinidash.
 - [Infinidash.io](http://www.infinidash.io/)
 - [Infinidash.dev](https://www.infinidash.dev)
 - [Infinidash.cloud](https://www.infinidash.cloud)
+- [Infinidash Applied](https://leanpub.com/awsinfinidashapplied)
 
 
 ## Resources
