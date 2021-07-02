@@ -22,6 +22,7 @@ Learn all there is to know about Infinidash.
 - [Infinidash.dev](https://www.infinidash.dev)
 - [Infinidash.cloud](https://www.infinidash.cloud)
 - [Infinidash Applied](https://leanpub.com/awsinfinidashapplied)
+- [Certified Infinidash on A Cloud Guru](https://twitter.com/KroonenburgRyan/status/1410962120976515073)
 
 
 ## Resources
