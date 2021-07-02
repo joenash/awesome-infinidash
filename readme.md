@@ -20,7 +20,7 @@ Wear the most secure merch for the fastest containers this side of the cloud. (A
 ## Learn
 
 Learn all there is to know about Infinidash.
-
+- [whatisinfinidash.com by @jimmangel](https://whatisinfinidash.com/)
 - [Infinidash by @ellenkorbes](https://twitter.com/ellenkorbes/status/1410796865126346755)
 - [Infinidash explained by @tartanllama](https://twitter.com/TartanLlama/status/1410959645238308866)
 - [An ode to Infinidash by @forrestbrazeal](https://twitter.com/forrestbrazeal/status/1410647222853771266)
