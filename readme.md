@@ -31,6 +31,7 @@ Use Infinidash with your favorite platforms.
 
 - [NodeRED by @sammachin](https://twitter.com/sammachin/status/1410857058136625152)
 - [Deploy Infinidash with Pulumi](https://twitter.com/mattstratton/status/1410805269223837696)
+- [Infinidash SDK for Go](https://github.com/eduardohitek/go-infinidash-sdk)
 
 
 ## Contribute
