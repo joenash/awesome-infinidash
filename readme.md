@@ -35,6 +35,7 @@ Use Infinidash with your favorite platforms.
 - [Deploy Infinidash with Pulumi](https://twitter.com/mattstratton/status/1410805269223837696)
 - [Infinidash rubygem](https://github.com/bermannoah/infinidash-ruby)
 - [A Crossplane Provider for Infinidash](https://github.com/luebken/provider-infinidash)
+- [Infinidash SDK for Go](https://github.com/eduardohitek/go-infinidash-sdk)
 
 
 ## Contribute
