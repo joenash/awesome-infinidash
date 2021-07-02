@@ -42,7 +42,7 @@ Stretch your Infinidash skills.
 Use Infinidash with your favorite platforms.
 
 - [NodeRED by @sammachin](https://twitter.com/sammachin/status/1410857058136625152)
-- [Deploy Infinidash with Pulumi](https://twitter.com/mattstratton/status/1410805269223837696)
+- [Deploy Infinidash with Pulumi](https://gist.github.com/mattstratton/30273a53dc0196d321cef994aa02843e)
 - [A Crossplane Provider for Infinidash](https://github.com/luebken/provider-infinidash)
 - [Infinidash SDK for Go](https://github.com/eduardohitek/go-infinidash-sdk)
 - [Infinidash rubygem](https://github.com/bermannoah/infinidash-ruby)
