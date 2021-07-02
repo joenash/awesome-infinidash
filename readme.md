@@ -2,27 +2,33 @@
 
 > An awesome list for the awe-inspiring power of Infinidash
 
+<a href="https://twitter.com/kangadac/status/1410817287695650824"><img src="https://user-images.githubusercontent.com/1790822/124236175-7003e900-db16-11eb-885f-eb5bedaa98c5.jpg" width="500" alt="by David Cuthbert (@Kangadac)"/></a>
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Learn](#learn)
+- [Resources](#resources)
+- [Integrations](#integrations)
 
 
-## Section
+## Learn
 
-About this section. Optional. Keep this short and focus on the list.
+Learn all there is to know about Infinidash.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Infinidash by [@ellenkorbes](https://github.com/ellenkorbes)](https://twitter.com/ellenkorbes/status/1410796865126346755)
 
 
-## Another Section
+## Resources
 
-### Subsection
+Stretch your Infinidash skills.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [How to use AWS Infinidash with Node JS by [@hughrawlinson](https://github.com/hughrawlinson)](https://www.hughrawlinson.me/posts/2021/06/30/how-to-use-aws-infinidash)
+
+## Integrations
+
+Use Infinidash with your favorite platforms.
+
+- [NodeRED by [@sammachin](https://github.com/sammachin)](https://twitter.com/sammachin/status/1410857058136625152)
 
 
 ## Contribute
