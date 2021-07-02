@@ -6,14 +6,14 @@
 
 ## Contents
 
+- [Merch](#merch)
 - [Learn](#learn)
 - [Resources](#resources)
 - [Integrations](#integrations)
-- [Merch](#merch)
 
 ## Merch
 
-Wear the most secure merch for the fastest containers this side of the cloud. (All proceeds go to [ZebraCoalition](https://zebrayouth.org/) to help LGBTQ Homeless youth)
+Wear the most secure merch for the fastest containers this side of the cloud. (All proceeds go to [ZebraCoalition](https://zebrayouth.org/) to help LGBTQ Homeless youth). Organized by [PJ Metz](https://twitter.com/MetzinAround) and [Brendan O'Leary](https://twitter.com/olearycrew).
 - [Shirts and apparel Clear background logo](https://www.redbubble.com/shop/ap/81636791)
 - [Stickers, mugs, etc with black background](https://www.redbubble.com/shop/ap/81635372)
 
