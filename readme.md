@@ -9,7 +9,13 @@
 - [Learn](#learn)
 - [Resources](#resources)
 - [Integrations](#integrations)
+- [Merch](#merch)
 
+## Merch
+
+Wear the most secure merch for the fastest containers this side of the cloud. (All proceeds go to [ZebraCoalition](https://zebrayouth.org/) to help LGBTQ Homeless youth)
+- [Shirts and apparel Clear background logo](https://www.redbubble.com/shop/ap/81636791)
+- [Stickers, mugs, etc with black background](https://www.redbubble.com/shop/ap/81635372)
 
 ## Learn
 
