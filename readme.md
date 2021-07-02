@@ -48,6 +48,7 @@ Use Infinidash with your favorite platforms.
 - [Infinidash rubygem](https://github.com/bermannoah/infinidash-ruby)
 - [Infinidash SDK for Rust](https://github.com/rafaelcaricio/aws-infinidash-rs)
 - [Infinidash SDK for .NET](https://github.com/davidwhitney/aws-infinidash-sdk)
+- [Infinidash Ansible module](https://github.com/jillr/community.aws/blob/start_new_infinidash_module/plugins/modules/infinidash.py)
 
 
 ## Contribute
