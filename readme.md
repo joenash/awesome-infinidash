@@ -29,6 +29,8 @@ Learn all there is to know about Infinidash.
 - [Infinidash.cloud](https://www.infinidash.cloud)
 - [Infinidash Applied](https://leanpub.com/awsinfinidashapplied)
 - [Certified Infinidash on A Cloud Guru](https://twitter.com/KroonenburgRyan/status/1410962120976515073)
+- [Introducing AWS Infinidash - WITH DEMO!](https://www.youtube.com/watch?v=5pt3KUb7kog) (Containers on the Couch livestream)
+- [Getting Started with AWS Infinidash - Twitter Space](https://twitter.com/i/spaces/1kvJpooWzZwGE)
 
 
 ## Resources
@@ -49,6 +51,7 @@ Use Infinidash with your favorite platforms.
 - [Infinidash SDK for Rust](https://github.com/rafaelcaricio/aws-infinidash-rs)
 - [Infinidash SDK for .NET](https://github.com/davidwhitney/aws-infinidash-sdk)
 - [Infinidash GitLab integration](https://twitter.com/olearycrew/status/1411043511185641475)
+- [Infinidash Ansible module](https://github.com/jillr/community.aws/blob/start_new_infinidash_module/plugins/modules/infinidash.py)
 
 
 ## Contribute
