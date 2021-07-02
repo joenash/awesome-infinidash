@@ -16,6 +16,7 @@
 Learn all there is to know about Infinidash.
 
 - [Infinidash by @ellenkorbes](https://twitter.com/ellenkorbes/status/1410796865126346755)
+- [An ode to Infinidash by @forrestbrazeal](https://twitter.com/forrestbrazeal/status/1410647222853771266)
 - [Infinidash.io](http://www.infinidash.io/)
 
 
