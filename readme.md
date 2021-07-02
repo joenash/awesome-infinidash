@@ -15,20 +15,20 @@
 
 Learn all there is to know about Infinidash.
 
-- [Infinidash by [@ellenkorbes](https://github.com/ellenkorbes)](https://twitter.com/ellenkorbes/status/1410796865126346755)
+- [Infinidash by @ellenkorbes](https://twitter.com/ellenkorbes/status/1410796865126346755)
 
 
 ## Resources
 
 Stretch your Infinidash skills.
 
-- [How to use AWS Infinidash with Node JS by [@hughrawlinson](https://github.com/hughrawlinson)](https://www.hughrawlinson.me/posts/2021/06/30/how-to-use-aws-infinidash)
+- [How to use AWS Infinidash with Node JS by @hughrawlinson](https://www.hughrawlinson.me/posts/2021/06/30/how-to-use-aws-infinidash)
 
 ## Integrations
 
 Use Infinidash with your favorite platforms.
 
-- [NodeRED by [@sammachin](https://github.com/sammachin)](https://twitter.com/sammachin/status/1410857058136625152)
+- [NodeRED by @sammachin](https://twitter.com/sammachin/status/1410857058136625152)
 
 
 ## Contribute
