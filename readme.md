@@ -29,6 +29,8 @@ Learn all there is to know about Infinidash.
 - [Infinidash.cloud](https://www.infinidash.cloud)
 - [Infinidash Applied](https://leanpub.com/awsinfinidashapplied)
 - [Certified Infinidash on A Cloud Guru](https://twitter.com/KroonenburgRyan/status/1410962120976515073)
+- [Introducing AWS Infinidash - WITH DEMO!](https://www.youtube.com/watch?v=5pt3KUb7kog) (Containers on the Couch livestream)
+- [Getting Started with AWS Infinidash - Twitter Space](https://twitter.com/i/spaces/1kvJpooWzZwGE)
 
 
 ## Resources
