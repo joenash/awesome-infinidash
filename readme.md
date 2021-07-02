@@ -17,6 +17,8 @@ Learn all there is to know about Infinidash.
 
 - [Infinidash by @ellenkorbes](https://twitter.com/ellenkorbes/status/1410796865126346755)
 - [Infinidash.io](http://www.infinidash.io/)
+- [Infinidash.dev](https://www.infinidash.dev)
+- [Infinidash.cloud](https://www.infinidash.cloud)
 
 
 ## Resources
@@ -31,7 +33,7 @@ Use Infinidash with your favorite platforms.
 
 - [NodeRED by @sammachin](https://twitter.com/sammachin/status/1410857058136625152)
 - [Deploy Infinidash with Pulumi](https://twitter.com/mattstratton/status/1410805269223837696)
-
+- [Infinidash rubygem](https://github.com/bermannoah/infinidash-ruby)
 
 ## Contribute
 
