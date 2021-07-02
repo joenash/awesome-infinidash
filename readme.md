@@ -31,6 +31,7 @@ Learn all there is to know about Infinidash.
 - [Certified Infinidash on A Cloud Guru](https://twitter.com/KroonenburgRyan/status/1410962120976515073)
 - [Introducing AWS Infinidash - WITH DEMO!](https://www.youtube.com/watch?v=5pt3KUb7kog) (Containers on the Couch livestream)
 - [Getting Started with AWS Infinidash - Twitter Space](https://twitter.com/i/spaces/1kvJpooWzZwGE)
+- [Scalable statehandling with AWS Infinidah](https://github.com/SuperFlyTV/sofie-automation-aws-infinidash#concept-infinite-single-sources-of-truth)
 
 
 ## Resources
