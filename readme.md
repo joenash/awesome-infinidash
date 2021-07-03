@@ -1,6 +1,8 @@
 # Awesome Infinidash [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> An awesome list for the awe-inspiring power of Infinidash
+> An awesome list for the awe-inspiring power of Infinidash.  
+
+**Disclaimer**: Infinidash is [not real](https://twitter.com/jna_sh/status/1410178986978775040), it is a an imaginary product invented by Twitter, to have a joint laugh at the fact that the world of tech products is impossible to keep up with. [Share the love](https://twitter.com/IanColdwater/status/1411295026022424577), do not punch down, it's more fun when you include others. 
 
 <a href="https://twitter.com/kangadac/status/1410817287695650824"><img src="https://user-images.githubusercontent.com/1790822/124236175-7003e900-db16-11eb-885f-eb5bedaa98c5.jpg" width="500" alt="by David Cuthbert (@Kangadac)"/></a>
 
@@ -31,6 +33,7 @@ Learn all there is to know about Infinidash.
 - [Certified Infinidash on A Cloud Guru](https://twitter.com/KroonenburgRyan/status/1410962120976515073)
 - [Introducing AWS Infinidash - WITH DEMO!](https://www.youtube.com/watch?v=5pt3KUb7kog) (Containers on the Couch livestream)
 - [Getting Started with AWS Infinidash - Twitter Space](https://twitter.com/i/spaces/1kvJpooWzZwGE)
+- [Scalable state handling with AWS Infinidash](https://github.com/SuperFlyTV/sofie-automation-aws-infinidash#concept-infinite-single-sources-of-truth)
 
 
 ## Resources
@@ -53,6 +56,7 @@ Use Infinidash with your favorite platforms.
 - [Infinidash GitLab integration](https://twitter.com/olearycrew/status/1411043511185641475)
 - [Infinidash Ansible module](https://github.com/jillr/community.aws/blob/start_new_infinidash_module/plugins/modules/infinidash.py)
 - [Infinidash SDK for JuliaLang](https://github.com/oxinabox/AWSInfinidash.jl)
+- [Infinidash plugin for Jenkins](https://twitter.com/oleg_nenashev/status/1411180893671153664)
 
 ## Contribute
 
