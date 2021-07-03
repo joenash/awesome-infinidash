@@ -55,8 +55,8 @@ Use Infinidash with your favorite platforms.
 - [Infinidash SDK for .NET](https://github.com/davidwhitney/aws-infinidash-sdk)
 - [Infinidash GitLab integration](https://twitter.com/olearycrew/status/1411043511185641475)
 - [Infinidash Ansible module](https://github.com/jillr/community.aws/blob/start_new_infinidash_module/plugins/modules/infinidash.py)
+- [Infinidash SDK for JuliaLang](https://github.com/oxinabox/AWSInfinidash.jl)
 - [Infinidash plugin for Jenkins](https://twitter.com/oleg_nenashev/status/1411180893671153664)
-
 
 ## Contribute
 
