@@ -12,6 +12,7 @@
 - [Learn](#learn)
 - [Resources](#resources)
 - [Integrations](#integrations)
+- [Implementations](#implementations)
 
 ## Merch
 
@@ -58,6 +59,12 @@ Use Infinidash with your favorite platforms.
 - [Infinidash Ansible module](https://github.com/jillr/community.aws/blob/start_new_infinidash_module/plugins/modules/infinidash.py)
 - [Infinidash SDK for JuliaLang](https://github.com/oxinabox/AWSInfinidash.jl)
 - [Infinidash plugin for Jenkins](https://twitter.com/oleg_nenashev/status/1411180893671153664)
+
+## Implementations
+
+Open source implementations of Infinidash.
+
+- [OpenDash](https://github.com/afstanton/opendash)
 
 ## Contribute
 
