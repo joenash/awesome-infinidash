@@ -59,6 +59,7 @@ Use Infinidash with your favorite platforms.
 - [Infinidash Ansible module](https://github.com/jillr/community.aws/blob/start_new_infinidash_module/plugins/modules/infinidash.py)
 - [Infinidash SDK for JuliaLang](https://github.com/oxinabox/AWSInfinidash.jl)
 - [Infinidash plugin for Jenkins](https://twitter.com/oleg_nenashev/status/1411180893671153664)
+- [Infinidash integration for Laravel applications](https://github.com/Roave/LaravelInfinidash)
 - [Infinidash Abbot package (chat integration)](https://ab.bot/packages/aseriousbiz/infinidash)
 
 ## Implementations
@@ -66,6 +67,7 @@ Use Infinidash with your favorite platforms.
 Open source implementations of Infinidash.
 
 - [OpenDash](https://github.com/afstanton/opendash)
+
 
 ## Contribute
 
