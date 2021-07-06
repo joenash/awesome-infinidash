@@ -67,6 +67,7 @@ Use Infinidash with your favorite platforms.
 Open source implementations of Infinidash.
 
 - [OpenDash](https://github.com/afstanton/opendash)
+- [PAID-GNU](https://github.com/mattstratton/paid-gnu)
 
 
 ## Contribute
