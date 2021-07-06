@@ -12,6 +12,7 @@
 - [Learn](#learn)
 - [Resources](#resources)
 - [Integrations](#integrations)
+- [Implementations](#implementations)
 
 ## Merch
 
@@ -59,6 +60,14 @@ Use Infinidash with your favorite platforms.
 - [Infinidash SDK for JuliaLang](https://github.com/oxinabox/AWSInfinidash.jl)
 - [Infinidash plugin for Jenkins](https://twitter.com/oleg_nenashev/status/1411180893671153664)
 - [Infinidash integration for Laravel applications](https://github.com/Roave/LaravelInfinidash)
+- [Infinidash Abbot package (chat integration)](https://ab.bot/packages/aseriousbiz/infinidash)
+
+## Implementations
+
+Open source implementations of Infinidash.
+
+- [OpenDash](https://github.com/afstanton/opendash)
+
 
 ## Contribute
 
