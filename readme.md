@@ -42,6 +42,7 @@ Learn all there is to know about Infinidash.
 Stretch your Infinidash skills.
 
 - [How to use AWS Infinidash with Node JS by @hughrawlinson](https://www.hughrawlinson.me/posts/2021/06/30/how-to-use-aws-infinidash)
+- [Intro to Infinidash](https://youtu.be/jx7xufVl6f8) - a lightning talk from [PJ Hagerty](https://twitter.com/aspleenic)
 
 ## Integrations
 
